@@ -1,10 +1,16 @@
-# MaterialRmi: Java-MaterialFx
+# MaterialRmi
 
 ```sh
 ./gradlew run
 ```
 
 > Use jdk version 17.x.x
+
+## Tech Stack
+- Java
+- MaterialFX
+- JavaRMI
+- Gradle
 
 ## Secreenshots
 
@@ -52,7 +58,8 @@
 
 ## Table of Contents
 
-- [MaterialRmi: Java-MaterialFx](#materialrmi-java-materialfx)
+- [MaterialRmi](#materialrmi)
+  - [Tech Stack](#tech-stack)
   - [Secreenshots](#secreenshots)
   - [](#)
   - [Table of Contents](#table-of-contents)
