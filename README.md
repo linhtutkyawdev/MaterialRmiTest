@@ -1,5 +1,20 @@
+# MaterialRmi: Java-MaterialFx
+
+```sh
+./gradlew run
+```
+
+> Use jdk version 17.x.x
+
+## Secreenshots
+
+![Hero](https://github.com/linhtutkyawdev/MaterialRmiTest/blob/master/screenshots/s-1.png?raw=true)
+
+![Hero](https://github.com/linhtutkyawdev/MaterialRmiTest/blob/master/screenshots/s-2.png?raw=true)
+
+![Hero](https://github.com/linhtutkyawdev/MaterialRmiTest/blob/master/screenshots/s-3.png?raw=true)
+
 <!--@formatter:off-->
-[![HitCount](http://hits.dwyl.com/PAlex404/MaterialFX.svg)](http://hits.dwyl.com/PAlex404/MaterialFX)
 ![GitHub Workflow Status](https://github.com/palexdev/materialfx/actions/workflows/gradle.yml/badge.svg)
 ![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/io.github.palexdev/materialfx?server=https%3A%2F%2Fs01.oss.sonatype.org&style=flat-square)
 [![javadoc](https://javadoc.io/badge2/io.github.palexdev/materialfx/javadoc.svg?logo=java)](https://javadoc.io/doc/io.github.palexdev/materialfx)
@@ -37,24 +52,29 @@
 
 ## Table of Contents
 
-* [Important Notes!](#important-notes)
-* [About the Project and History of JavaFX](#about-the-project-and-history-of-javafx)
-* [About the Logo](#about-the-logo)
-* [Some GIFs](#preview-gifs)
-* [Getting Started](#getting-started)
-    * [Build](#build)
-    * [Usage](#usage)
-        * [Gradle](#gradle)
-        * [Maven](#maven)
-* [Documentation](#documentation)
-* [Changelog](#changelog)
-* [Roadmap](#roadmap)
-* [Theming System](#theming-system)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Donation](#donation)
-* [Supporters](#supporters)
+- [MaterialRmi: Java-MaterialFx](#materialrmi-java-materialfx)
+  - [Secreenshots](#secreenshots)
+  - [](#)
+  - [Table of Contents](#table-of-contents)
+  - [Important notes](#important-notes)
+  - [About The Project and History of JavaFX](#about-the-project-and-history-of-javafx)
+  - [About The Logo](#about-the-logo)
+  - [Preview GIFs](#preview-gifs)
+      - [Imgur Link: Gallery](#imgur-link-gallery)
+  - [Getting Started](#getting-started)
+    - [Build](#build)
+    - [Usage](#usage)
+          - [Gradle](#gradle)
+          - [Maven](#maven)
+  - [Documentation](#documentation)
+  - [Changelog](#changelog)
+  - [Roadmap](#roadmap)
+  - [Theming System](#theming-system)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
+      - [Donation](#donation)
+- [Supporters:](#supporters)
 
 <!-- IMPORTANT NOTES -->
 
